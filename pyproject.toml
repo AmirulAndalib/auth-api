@@ -27,7 +27,7 @@ dev = [
     "pytest-cov==7.1.0",
     "ruff==0.15.22",
     "basedpyright==1.39.9",
-    "pre-commit==4.6.0"  # Added pre-commit for code quality checks
+    "pre-commit==4.6.1"  # Added pre-commit for code quality checks
 ]
 
 [tool.setuptools.packages.find]
